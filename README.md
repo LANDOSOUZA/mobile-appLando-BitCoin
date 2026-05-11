@@ -1,16 +1,32 @@
 # aula_13_mobile_applando_bitcoin
 
-A new Flutter project.
+1. F:
+2. mkdir aula_13_mobile_applando_bitcoin
+3. cd aula_13_mobile_applando_bitcoin
 
-## Getting Started
+4. flutter create .
 
-This project is a starting point for a Flutter application.
+5. code .
 
-A few resources to get you started if this is your first Flutter project:
+6. git init
+7. git add .
+8. git commit -m "Projeto inicial Flutter"
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+9. git remote add origin <URL_DO_REPOSITORIO>
+10. git branch -M main
+11. git push -u origin main
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+12. flutter pub add http
+13. flutter pub add intl
+14. flutter pub get
+15. flutter run
+
+16. Substituir "R$" por "R\$"
+17. Aplicar NumberFormat.currency
+
+18. git add .
+19. git commit -m "Formatando valores em moeda brasileira e ajustes"
+20. git push
+
+
+
